@@ -66,7 +66,5 @@ public class Pruebas {
         // POR ULTIMO OBTENGO CONTADOS STATICO DEL PERSONAJE PARA SABER CUANTO SE CREO
         int numero = Personajes.getContador();
         System.out.println("En esta simulacion se ha imprimido: " + numero);
-
     }
-
 }
