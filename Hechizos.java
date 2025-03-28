@@ -7,7 +7,6 @@ public class Hechizos {
     private int dificultad;
 
     public Hechizos(String nombre, int dificultad) {
-        super();
         this.nombre = nombre;
         setDificultad(dificultad);
     }
@@ -54,5 +53,4 @@ public class Hechizos {
     public String toString() {
         return "\n- Nombre= " + nombre + ", dificultad= " + dificultad;
     }
-
 }
