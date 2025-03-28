@@ -53,5 +53,4 @@ public class Asignaturas {
     public String toString() {
         return "\n- Nombre= " + nombre + ", nivel= " + nivel;
     }
-
 }
