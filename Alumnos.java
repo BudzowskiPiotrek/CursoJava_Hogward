@@ -62,14 +62,11 @@ public class Alumnos extends Personajes {
             hechizos.add(hechizo);
             return true;
         }
-
         return false;
-
     }
-
+    
     @Override
     public String toString() {
         return "Alumnos Escuela= " + escuela + ", asignaturas= " + asignaturas + ", hechizos= " + hechizos;
     }
-
 }
