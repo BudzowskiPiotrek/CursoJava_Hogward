@@ -68,5 +68,4 @@ public class Personajes {
     public String toString() {
         return "Nombre= " + nombre + ", edad= " + edad + ", codigoPersonaje= " + codigoPersonaje;
     }
-
 }
