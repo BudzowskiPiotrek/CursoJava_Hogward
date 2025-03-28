@@ -13,5 +13,4 @@ public class Retratos extends Personajes {
     public String toString() {
         return "\n- Nombre= " + getNombre() + ", Edad= " + getEdad() + ", CodigoPersonaje)= " + getCodigoPersonaje();
     }
-
 }
