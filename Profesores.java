@@ -25,7 +25,5 @@ public class Profesores extends Personajes {
             return true;
         }
         return false;
-
     }
-
 }
