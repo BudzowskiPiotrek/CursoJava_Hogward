@@ -50,5 +50,4 @@ public class Salas {
     public String toString() {
         return "Nombre= " + nombre + ", id= " + id + ", retratos= " + retratos;
     }
-
 }
