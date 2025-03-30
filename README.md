@@ -22,7 +22,7 @@ los encargados de enseñar asignaturas. Implementa los métodos necesarios
 dentro de esta clase para ir añadiendo asignaturas al listado, un profesor puede
 impartir la misma asignatura a varios cursos.
 
--Tenemos también alumnos, ¿qué sería de una escuela sin alumnos? Los alumnos pertenecen a
+- Tenemos también alumnos, ¿qué sería de una escuela sin alumnos? Los alumnos pertenecen a
 una escuela de las cuatro que conforman la gran familia Hogwarts (Gryffindor, Hufflepuff,
 Ravenclaw, Slytherin) y, por supuesto, estudian asignaturas y aprenden hechizos. Las
 asignaturas tienen un nombre y un nivel mágico, los hechizos tienen un nivel de dificultad y los
