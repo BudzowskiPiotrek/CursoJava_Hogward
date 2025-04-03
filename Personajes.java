@@ -2,10 +2,10 @@ package CursoJava_Hogward;
 
 import java.util.Objects;
 
-public class Personajes {
-    private String nombre;
-    private int edad;
-    private int codigoPersonaje;
+public abstract class Personajes {
+    protected String nombre;
+    protected int edad;
+    protected int codigoPersonaje;
     public static int contador = 0;
 
     public Personajes(String nombre, int edad) {
