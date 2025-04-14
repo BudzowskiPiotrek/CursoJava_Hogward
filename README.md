@@ -1,5 +1,4 @@
 # 🧙‍♂️ Curso Java - Hogwarts 🎓
-
 Examen Programación : Aplicación sobre pelicula "Harry Potter"
 La célebre escuela de magia y hechicería de Hogwarts ha decidido modernizar
 su sistema de gestión de la información mágica y tú has sido convocado para
